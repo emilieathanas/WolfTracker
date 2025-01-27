@@ -1,3 +1,3 @@
 # WolfTracker
-This project was created during CSC216 at NCSU as a part of the curriculum. 
+This project was developed as part of the CSC216 course curriculum at North Carolina State University
 Note: GUI was provided.
